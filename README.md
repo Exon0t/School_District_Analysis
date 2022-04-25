@@ -12,7 +12,11 @@ Our client Mariam the chief data science for a school city district has asked us
   *That math scores by grades at thomas high school didnt really change. only with 9th being NaN
 *There walso also no change in school size or school types which makes me think i made a mistake somewhere. 
 ---
-![resources/Mathscores by Grade.PNG](resources/Mathscores by Grade.PNG)
+![](/resources/Mathscores%20by%20Grade.PNG)
+![](/resources/Reading%20Scores%20by%20Grade.PNG)
+![](/resources/School%20Size.PNG)
+![](/resources/School%20Type.PNG)
+
 
 
 ## Summary
